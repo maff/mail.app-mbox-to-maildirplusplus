@@ -1,0 +1,51 @@
+{
+    "hash": "8dc23d260702a21d134768080557233d",
+    "packages": [
+        {
+            "package": "symfony/console",
+            "version": "dev-master",
+            "alias-pretty-version": "2.1.x-dev",
+            "alias-version": "2.1.9999999.9999999-dev"
+        },
+        {
+            "package": "symfony/console",
+            "version": "dev-master",
+            "source-reference": "4d463e30faf03f793c7b7184d7482ccdf71e1a05",
+            "commit-date": "1345643321"
+        },
+        {
+            "package": "symfony/filesystem",
+            "version": "dev-master",
+            "alias-pretty-version": "2.1.x-dev",
+            "alias-version": "2.1.9999999.9999999-dev"
+        },
+        {
+            "package": "symfony/filesystem",
+            "version": "dev-master",
+            "source-reference": "57c95ad66231e75b63643df2bd5f6a8bc5603bef",
+            "commit-date": "1345643321"
+        },
+        {
+            "package": "symfony/finder",
+            "version": "dev-master",
+            "alias-pretty-version": "2.1.x-dev",
+            "alias-version": "2.1.9999999.9999999-dev"
+        },
+        {
+            "package": "symfony/finder",
+            "version": "dev-master",
+            "source-reference": "e2e9f746294f60aed3bb5bc20da24e23b92f0479",
+            "commit-date": "1345643321"
+        }
+    ],
+    "packages-dev": null,
+    "aliases": [
+
+    ],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "symfony/console": 20,
+        "symfony/finder": 20,
+        "symfony/filesystem": 20
+    }
+}

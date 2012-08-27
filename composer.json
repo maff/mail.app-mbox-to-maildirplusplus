@@ -1,0 +1,7 @@
+{
+    "require": {
+        "symfony/console": "dev-master",
+        "symfony/finder": "dev-master",
+        "symfony/filesystem": "dev-master"
+    }
+}
